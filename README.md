@@ -1,4 +1,4 @@
-# 🚀 Highly Available & Secure Student Records Web Application (AWS PoC)
+# Enterprise-Grade 3-Tier Web Architecture on AWS (Student Portal PoC)
 
 A resilient, production-grade 3-tier architecture built on Amazon Web Services (AWS) designed to handle peak admissions traffic for a university student records portal without performance degradation.
 
